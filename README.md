@@ -4,9 +4,7 @@ An intelligent, voice-first mock interviewer that adapts to specific job descrip
 
 ## Demo
 
-https://github.com/divyahegde-07/Devil-s-Advocate-AI-Mock-Interviewer/assets/YOUR_USER_ID/DevilsAdvocateDemo.mp4
-
-*Or watch the demo video: [demo/DevilsAdvocateDemo.mp4](demo/DevilsAdvocateDemo.mp4)*
+[https://github.com/divyahegde-07/Devil-s-Advocate-AI-Mock-Interviewer/blob/1873a4e8432995234dd57009d4d40e1c28dd2ec8/demo/DevilsAdvocateDemo.mp4](https://github.com/divyahegde-07/Devil-s-Advocate-AI-Mock-Interviewer/blob/1873a4e8432995234dd57009d4d40e1c28dd2ec8/demo/DevilsAdvocateDemo.mp4)
 
 ## What Makes This Different
 
