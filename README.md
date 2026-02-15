@@ -3,7 +3,7 @@
 An intelligent, voice-first mock interviewer that adapts to specific job descriptions and challenges weak answers in real-time using advanced multi-agent AI architecture.
 
 ## Demo
-
+Find a quick demo here. I've cut the bits where I'm speaking to keep the video short. You can observe a drill-down question when I don't explain a question well.
 
 https://github.com/user-attachments/assets/b1a896da-3259-47d3-9e48-c6ade9c5d47b
 
