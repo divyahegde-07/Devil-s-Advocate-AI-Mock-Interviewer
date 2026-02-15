@@ -2,6 +2,12 @@
 
 An intelligent, voice-first mock interviewer that adapts to specific job descriptions and challenges weak answers in real-time using advanced multi-agent AI architecture.
 
+## Demo
+
+https://github.com/divyahegde-07/Devil-s-Advocate-AI-Mock-Interviewer/assets/YOUR_USER_ID/DevilsAdvocateDemo.mp4
+
+*Or watch the demo video: [demo/DevilsAdvocateDemo.mp4](demo/DevilsAdvocateDemo.mp4)*
+
 ## What Makes This Different
 
 Unlike traditional mock interview tools, this tool doesn't just ask scripted questions. It uses a **Reflexion Pattern** where a hidden AI agent semantically evaluates every answer against ideal response patterns. When it detects vague or weak responses, it automatically enters "Drill-Down Mode" with skeptical follow-up questions—just like a real interviewer would.
